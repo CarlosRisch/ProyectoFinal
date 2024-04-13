@@ -10,4 +10,4 @@
 <p>El proyecto busca aplicar los conocimientos adquiridos en clase para el manejo de AWS usando python para crear los distintos módulos que serán de  ayuda para cargar una base de datos que posteriormente serán analizados con las distintas herramientas de analítica de las librerías de Pandas, Matoplotlib, boto3, entre otras.</p>
 
 ## Video explicativo
-<p>Se Adjunta el link que describe la realización y puntos importantes del proyecto <a href="https://drive.google.com/drive/folders/1PDrntm9W3lNekA0eDn6DvJGoHCKz1B9l?usp=sharing">Video</a></p>
+<p>Se Adjunta el link que describe la realización y puntos importantes del proyecto <a href="https://drive.google.com/file/d/160lMFEuYkG6gbflNvalnLZIfVsE2QmMO/view?usp=gmail">Video</a></p>
